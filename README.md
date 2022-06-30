@@ -129,7 +129,7 @@ resource "kubernetes_manifest" "serviceaccount_kube_logging_fluentd" {
 
 We define a ClusterRole called fluentd to which we grant the get, list, and watch permissions on the pods and namespaces objects. ClusterRoles allow you to grant access to cluster-scoped Kubernetes resources like Nodes. We also define a `ClusterRoleBinding` called fluentd which binds the fluentd ClusterRole to the fluentd Service Account. This grants the fluentd ServiceAccount the permissions listed in the fluentd Cluster Role.
 
-**4- Running Terraform Commands** 
+**5- Running Terraform Commands** 
 
 We start running `terraform init` 
 
