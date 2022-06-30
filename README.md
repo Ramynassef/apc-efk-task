@@ -14,13 +14,10 @@ We’ll begin by configuring and launching an Elasticsearch cluster, and then cr
 
 ## Table of Contents
 
-- [EFK-Minikube Setup by Terraform](#efk-minikube-setup-by-terraform)
-  - [Introduction](#introduction)
-  - [Table of Contents](#table-of-contents)
-    - [Minikube Installation](#minikube-installation)
-    - [Terraform Code](#terraform-code)
-    - [Managing Minikube](#managing-minikube)
-    - [Enabling Retention Period on Kibana](#enabling-retention-period-on-kibana)
+- [Minikube Installation](#minikube-installation)
+- [Terraform Code](#terraform-code)
+- [Managing Minikube](#managing-minikube)
+- [Enabling Retention Period on Kibana](#enabling-retention-period-on-kibana)
 
 
 ### Minikube Installation
