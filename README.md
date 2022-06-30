@@ -166,3 +166,7 @@ We'll open Kibana locally from the broswer on `http://localhost:5601`, then go t
 ![](https://github.com/Ramynassef/apc-efk-task/blob/main/images/policy.png)
 
 ![](https://github.com/Ramynassef/apc-efk-task/blob/main/images/policy1.png)
+
+Here, we're can find the logs of the different pods on Kibana
+
+![](https://github.com/Ramynassef/apc-efk-task/blob/main/images/elk-result.png)
